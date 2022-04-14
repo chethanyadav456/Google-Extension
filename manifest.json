@@ -1,0 +1,16 @@
+{
+    "name": "Text-to-Google",
+    "description": "Highlight over a word to go to Google",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "background": {
+       "service_worker": "background.js"
+    },
+    "permissions": [
+        "contextMenus",
+        "tabs"
+    ],
+    "icons": {
+        "logo": "logo.png"
+    }
+}
