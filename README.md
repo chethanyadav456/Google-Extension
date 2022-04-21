@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/chethanyadav456/Google-Extension">
-    <img src="./logo.png" alt="Google-Extension" width="100" height="100">
+    <img src="./logo.png" alt="Google-Extension" width="150" height="150">
   </a>
 
 # Google-Extension
