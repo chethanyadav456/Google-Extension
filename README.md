@@ -1,7 +1,7 @@
 
 <p align="center">
-  <a href="https://github.com/chethanyadav456/discord-js-v13-handler">
-    <img src="./logo.png" alt="Pbot-plus" width="200" height="200">
+  <a href="https://github.com/chethanyadav456/Google-Extension">
+    <img src="./logo.png" alt="Google-Extension" width="100" height="100">
   </a>
 
 # Google-Extension
